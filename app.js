@@ -1,5 +1,5 @@
 
-var age = prompt("Are Sure you want to listen to this Scary Story?")
+var age = prompt("Are Sure you want to listen to this Scary Story...Whats your age?")
 if(age < 16) {
 alert("You are too Young for this scary story! Oh well");
 } else if (age >=16){
